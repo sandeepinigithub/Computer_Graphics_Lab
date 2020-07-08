@@ -1,0 +1,1 @@
+To implement Bresenham’s algorithms for line, circle and ellipse drawing

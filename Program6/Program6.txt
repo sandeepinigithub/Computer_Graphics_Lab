@@ -1,0 +1,1 @@
+To implement Cohen–Sutherland 2D clipping and window–viewport mapping
